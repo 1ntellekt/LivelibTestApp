@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.livelibtestapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LivelibTestApp"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".ChangePassActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RecovPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AuthActivity"
+            android:exported="true" />
+        <activity
+            android:name=".InfoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AuthorsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AboutBookActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BooksActivity"
+            android:exported="true" />
+        <activity android:name=".LoadActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

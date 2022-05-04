@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:backgroundTint="#727BAA"
+    app:cardCornerRadius="15dp"
+    android:layout_marginTop="5dp"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:layout_marginBottom="5dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingBottom="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/white"
+            android:id="@+id/authorNameTxt"
+            android:background="@drawable/background_name_author"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Name author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:padding="5dp"
+            android:background="@drawable/backg_auth"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:padding="10dp"
+                android:background="@drawable/border_port_author"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/authorImg"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:id="@+id/authorBiographyTxt"
+                android:textSize="15sp"
+                android:textStyle="italic"
+                android:text="Biography author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

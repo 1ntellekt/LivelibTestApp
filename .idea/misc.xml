@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_book_genre.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_book_name.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_butt.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_edit.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_edit_txt.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_img_library.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_load.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_regist_butt.xml" value="0.36944444444444446" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_registr.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_to_home.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/back_to_home_2.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/backg_auth.xml" value="0.41384615384615386" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/background_name_author.xml" value="0.2115" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/border_port_author.xml" value="0.2115" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/edit_menu_author_back.xml" value="0.2115" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_book.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_books.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_home.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_info.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_library.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_person.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/ic_poem.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/drawable/toolbar_backg.xml" value="0.4203125" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_about_book.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_auth.xml" value="0.4" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_books.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_change_pass.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_home.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_info.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_load.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/activity_recov_password.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/edit_author_menu.xml" value="0.39794871794871794" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/edit_book_menu.xml" value="0.39794871794871794" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/item_author.xml" value="0.39794871794871794" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/item_book.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/layout/spinner_author.xml" value="0.4041666666666667" />
+        <entry key="..\:/works/androidWorks/LivelibTestApp/app/src/main/res/menu/menu_nav_bottom.xml" value="0.4041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

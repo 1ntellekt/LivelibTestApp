@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/back_img_library" android:width="120dp"
+        android:height="120dp"/>
+    <item android:drawable="@drawable/books" android:height="70dp"
+        android:width="70dp" android:gravity="center"/>
+
+</layer-list>
